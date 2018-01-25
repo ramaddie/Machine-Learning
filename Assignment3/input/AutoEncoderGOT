@@ -1,0 +1,12 @@
+@relation GOT-weka.filters.unsupervised.attribute.Remove-R6-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0
+
+@attribute pred numeric
+@attribute male numeric
+@attribute isMarried numeric
+@attribute isNoble numeric
+@attribute isPopular numeric
+
+@data
+
+-0.06688988419263153,-0.07363134603688858,0.5029546139874613,2.0626403615144766,0.11768428528099556
+1.3233173841229604,-1.710792500508871,0.10247126540068621,-0.02610763279370974,-0.2696384778574269

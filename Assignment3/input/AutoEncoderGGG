@@ -1,0 +1,12 @@
+@relation GGG-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-R6-weka.filters.unsupervised.attribute.Standardize
+
+@attribute bone_length numeric
+@attribute rotting_flesh numeric
+@attribute hair_length numeric
+@attribute has_soul numeric
+@attribute color numeric
+
+@data
+
+-1.5228539019874163,0.6000994330390031,-1.706386813142191,-1.7063624799876678,0.10719548269210478
+-0.21840822693952183,-0.6267087731258341,0.17551689887591282,-0.09411780577183561,2.383248255564475
